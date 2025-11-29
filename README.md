@@ -1,5 +1,3 @@
-# Vgsales-Analysis-Project
-Analysis project in Tableau using the vgsales dataset from kaggle
 # Video Game Sales Data Analysis (Tableau)
 
 ## 📌 Project Overview
